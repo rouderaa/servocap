@@ -1,0 +1,1 @@
+Prototype of a variable capacitor 5-20pf, 2.5kv, controlled by a MG996R servo.
